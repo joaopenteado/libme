@@ -1,0 +1,17 @@
+# clang-format version 11.0.1-2
+---
+Language: Cpp
+BasedOnStyle: LLVM
+AlignConsecutiveAssignments: Consecutive
+AlignConsecutiveBitFields: Consecutive
+AlignConsecutiveDeclarations: Consecutive
+AlignConsecutiveMacros: Consecutive
+AlignEscapedNewlines: Left
+AllowShortFunctionsOnASingleLine: None
+BreakBeforeBinaryOperators: NonAssignment
+IncludeBlocks: Regroup
+IndentGotoLabels: false
+IndentWidth: 4
+PointerAlignment: Left
+SpacesInContainerLiterals: false
+TabWidth: 4
